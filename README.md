@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Uneeb Chowdhury
 ========================================================================================================================================
 
-Aspiring IT Professional | Systems Administration | Hands-On Technical Experience
+IT Professional | Systems Administration | IAM | Azure
 ----------------------------------------------
 
-I'm an aspiring IT professional who is actively learning and building core skills related to technical support, IT infrastructure, systems administration, and networking. I enjoy gaining hands-on experience through personal projects, labs, and troubleshooting problems.
+I'm an IT professional who is actively learning and building core skills related to technical support, cloud infrastructure, systems administration, and networking. I enjoy gaining hands-on experience through personal projects, labs, and troubleshooting problems.
 
 * 🌍  I'm based in New Jersey, USA
 * ✉️  You can contact me at [uneebc06@icloud.com](mailto:uneebc06@icloud.com)
-* 🧠  I'm currently learning about Microsoft Azure infrastructure and security fundamentals.
+* 🧠  I'm currently building an Azure infrastructure deployment project and also an automated IAM project that are not published yet.
 
 
 ### Socials
