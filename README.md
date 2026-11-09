@@ -8,7 +8,7 @@ I'm an IT professional who is actively learning and building core skills related
 
 * 🌍  I'm based in New Jersey, USA
 * ✉️  You can contact me at [uneebc06@icloud.com](mailto:uneebc06@icloud.com)
-* 🧠  I'm currently building an automated Azure infrastructure deployment project and also an automated IAM project that are not published yet.
+* 🧠  I'm currently building an automated Azure infrastructure deployment project and also an automated IAM project that are not published yet. I am also learning how to use linux.
 
 
 ### Socials
